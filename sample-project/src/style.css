@@ -34,8 +34,8 @@ main {
 }
 
 .submit-btn:hover {
+
   background-color: rgba(128, 128, 128, 0.25);
   border-color: rgba(128, 128, 128, 0.25);
   cursor: pointer;
 }
-
